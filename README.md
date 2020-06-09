@@ -1,4 +1,5 @@
 # Review
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/guohongquan/Review.svg?style=flat)](https://travis-ci.org/guohongquan/Review)
 [![Version](https://img.shields.io/cocoapods/v/Review.svg?style=flat)](https://cocoapods.org/pods/Review)
@@ -27,3 +28,6 @@ guohongquan, wbguohq@centaline.com.cn
 ## License
 
 Review is available under the MIT license. See the LICENSE file for more info.
+=======
+review
+>>>>>>> 11cb94b57fee887af062dabe6517302f3b1328cc
